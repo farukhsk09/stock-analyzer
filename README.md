@@ -1,9 +1,8 @@
 # This Project was created from this Dribble Idea 
 https://dribbble.com/shots/16939488-STOCKIN-Stock-Investment-Dashboard
 
-# Ripoff of the above dribble Item 
-
-src/stock_analyzer.png
+# The App When run will look like this 
+[Screenshot taken as of 23-02-2022](src/stock_analyzer.png)
 
 ### Base Readme from React ###
 
