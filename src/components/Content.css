@@ -1,9 +1,7 @@
 .heading{
     min-height: 40px;
-    /*padding-top: 25px;*/
     padding-left: 20px;
     display: flex;
-    /* justify-content: space-around; */
     border-bottom: 1px rgb(228, 226, 226) solid;
 }
 .heading>*{
