@@ -1,0 +1,17 @@
+.logo{
+    min-height: 40px;
+    min-width: 60%;
+    /*padding-top: 15px;*/
+    margin-left: 10%;
+    margin-right: 10%;
+    border-bottom: 1px grey solid;
+}
+.navbar{
+    padding-left:20%;
+}
+.navbar-option{
+    height: 20px;
+    font-size: 1.30em;
+    text-align: left;
+    margin-top: 20px;
+}
