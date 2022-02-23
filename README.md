@@ -1,3 +1,12 @@
+# This Project was created from this Dribble Idea 
+https://dribbble.com/shots/16939488-STOCKIN-Stock-Investment-Dashboard
+
+# Ripoff of the above dribble Item 
+
+src/stock_analyzer.png
+
+### Base Readme from React ###
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
